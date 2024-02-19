@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "what_lurks_beneath:item/staff"
+  }
+}
